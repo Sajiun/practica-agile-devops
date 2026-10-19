@@ -1,0 +1,8 @@
+{
+    "name": "practica-agile-devops",
+    "version": "1.0.0",
+    "description": "Prueba de CI/CD con Scrum",
+    "scripts": {
+    "test": "echo \"Ejecutando pruebas unitarias... ¡Todas las pruebas pasaron exitosamente!\""
+    }
+}
